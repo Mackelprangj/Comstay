@@ -20,7 +20,7 @@ module.exports = {
         type: Sequelize.INTEGER,
         allowNull: false,
       },
-      imageLink: {
+      url: {
         type: Sequelize.STRING,
         allowNull: false,
       },
